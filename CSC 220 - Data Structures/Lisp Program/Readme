@@ -1,0 +1,29 @@
+CSC220 Programming Project #2
+=============================
+ 
+Due Date: 23:55pm, Thursday, 11/6/2014, upload SimpleLispExpressionEvaluator.java to ilearn
+
+- You need to implement SimpleLispExpressionEvaluator.java which uses Java API Stack
+  See project requirements in SimpleLispExpressionEvaluator.java
+
+- Use PJ2_Test.java to test correctness of your program
+
+- Compile programs (you are in directory containing Readme file):
+	
+  javac PJ2/*.java
+  javac *.java
+
+- Run programs (you are in directory containing Readme file):
+
+  // Run main() method tests in SimpleLispExpressionEvaluator class
+  java PJ2.SimpleLispExpressionEvaluator
+
+  // Run main test program
+  java PJ2_Test
+
+- Bonus (20%): Implement GUI test program
+  
+  Talk to me before you start this part. 
+  
+	
+
