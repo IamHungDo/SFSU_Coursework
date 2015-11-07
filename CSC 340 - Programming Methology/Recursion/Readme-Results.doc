@@ -1,0 +1,107 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Bold;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 1) In order to work this program, choose the length and then input your numbers. You can choose to input the numbers one by one or all together. Ex: 4 5 6 3\
+2) Then choose a number in the menu to work with that array.\
+\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b\fs22 \cf0 \CocoaLigature0 How many integers would you like to enter?\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 5\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 Enter your integers one by one\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 2 7 8 5 4\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 ---------Menu--------\
+[1] Print using overloaded method\
+[2] Find largest num\
+[3] Find kth smallest\
+[4] Reverse array\
+[5] Sort from decreasing to increasing\
+[6] Exit\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 1\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 Your array is: 27854\
+---------Menu--------\
+[1] Print using overloaded method\
+[2] Find largest num\
+[3] Find kth smallest\
+[4] Reverse array\
+[5] Sort from decreasing to increasing\
+[6] Exit\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 2\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 The index of 2, contains the largest value 8\
+---------Menu--------\
+[1] Print using overloaded method\
+[2] Find largest num\
+[3] Find kth smallest\
+[4] Reverse array\
+[5] Sort from decreasing to increasing\
+[6] Exit\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 3\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 Enter your k\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 2\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 The 2th smallest number is: 4\
+---------Menu--------\
+[1] Print using overloaded method\
+[2] Find largest num\
+[3] Find kth smallest\
+[4] Reverse array\
+[5] Sort from decreasing to increasing\
+[6] Exit\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 4\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 The inverse is: 75842\
+---------Menu--------\
+[1] Print using overloaded method\
+[2] Find largest num\
+[3] Find kth smallest\
+[4] Reverse array\
+[5] Sort from decreasing to increasing\
+[6] Exit\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 \
+5\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f1\b \cf0 Sorted: 24578\
+---------Menu--------\
+[1] Print using overloaded method\
+[2] Find largest num\
+[3] Find kth smallest\
+[4] Reverse array\
+[5] Sort from decreasing to increasing\
+[6] Exit\
+\pard\tx529\pardeftab529\pardirnatural
+
+\f2\b0 \cf0 6\
+Program ended with exit code: 0}
